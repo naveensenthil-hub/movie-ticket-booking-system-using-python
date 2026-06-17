@@ -98,6 +98,4 @@ Movie-Ticket-Booking-System
 └── README.md
 
 
----
-
 ⭐ If you found this project useful, consider giving it a star on GitHub.
